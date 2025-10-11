@@ -1,7 +1,0 @@
-name: LiteTotemRune
-version: '1.0'
-main: ru.nezxenka.litetotemrune.LiteTotemRune
-api-version: '1.16'
-author: nezxenka
-commands:
-  litetotemrune:
