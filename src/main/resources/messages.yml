@@ -1,0 +1,6 @@
+player-messages:
+  no-access: "&cУ вас нет прав на использование этой команды!"
+  target-missing: "&cИгрок не найден!"
+  wrong-quantity: "&cНекорректное количество!"
+  item-given: "&aВы успешно выдали &e{amount} &aрун бессмертия игроку &e{player}&a!"
+  correct-syntax: "&eИспользование: /litetotemrune give <игрок> <количество>"

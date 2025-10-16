@@ -1,0 +1,7 @@
+item-properties:
+  display-title: "&6«Бессмертие»"
+  material-type: ORANGE_DYE
+
+effect-settings:
+  protection-duration: 60
+  repair-expense: 10

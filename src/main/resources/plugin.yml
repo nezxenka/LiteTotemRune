@@ -1,0 +1,14 @@
+name: LiteTotemRune
+version: '1.0'
+main: ru.nezxenka.litetotemrune.LiteTotemRune
+api-version: '1.16'
+author: nezxenka
+commands:
+  litetotemrune:
+    description: Основная команда плагина
+    permission: litetotemrune.admin
+    usage: /litetotemrune give <player> <amount>
+permissions:
+  litetotemrune.admin:
+    description: Доступ к админ командам
+    default: op
